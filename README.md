@@ -1,4 +1,4 @@
 # converts-text-to-sound-TgBot
 
-Install 
-``pip install -r requirements.txt
+# Install this packages
+``pip install -r requirements.txt``
